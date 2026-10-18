@@ -1,0 +1,11 @@
+{
+  "name": "GeoPulse AI - Map Chatbot & Commute Intelligence",
+  "description": "Interactive map-based AI chatbot powered by real-time Google Search grounding, multi-modal routing, Google Calendar sync, proactive commute alerts, offline mode, biometric security, and admin analytics.",
+  "requestFramePermissions": [
+    "geolocation",
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
