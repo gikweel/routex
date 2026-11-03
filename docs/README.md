@@ -1,6 +1,6 @@
 # GeoPulse / RouteX documentation
 
-Planning and design docs (originally from AI Studio brain artifacts), cleaned and numbered:
+Planning and design docs (cleaned from AI Studio brain artifacts):
 
 | File | Topic |
 |------|--------|
