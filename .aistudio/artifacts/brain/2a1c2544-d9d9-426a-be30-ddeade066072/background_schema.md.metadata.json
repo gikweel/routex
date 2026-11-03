@@ -1,5 +1,0 @@
-{
-  "summary": "Background Schema document defining relational and document data entities: PinnedLocation, SavedRoute, CalendarAppointment, CommuteAlertRule, PushNotificationRecord, UserPreferences, and AdminAnalyticsMetric.",
-  "updatedAt": "2026-10-18T08:39:35.462312334Z",
-  "userFacing": true
-}
