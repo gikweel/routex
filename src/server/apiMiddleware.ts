@@ -34,7 +34,7 @@ function getAiClient(): GoogleGenAI | null {
       apiKey,
       httpOptions: {
         headers: {
-          'User-Agent': 'aistudio-build',
+          'User-Agent': 'routex/0.1',
         },
       },
     });
@@ -73,7 +73,7 @@ export async function handleApiRoute(req: IncomingMessage, res: ServerResponse):
       const ai = getAiClient();
       if (!ai) {
         sendJson(res, 200, {
-          text: 'Google Gemini API key is not configured. Please set GEMINI_API_KEY in the Secrets panel to enable real-time Search Grounding.',
+          text: 'Google Gemini API key is not configured. Please set GEMINI_API_KEY in your .env file to enable search-grounded answers.',
           groundingChunks: [],
           source: 'unconfigured_key',
         });
