@@ -1,6 +1,6 @@
-# RouteX / GeoPulse
+# RouteX
 
-**GeoPulse** is a responsive map-based navigation and commute orchestration web app. Interactive map, multi-modal directions, search-grounded AI assistant (Gemini + Google Search), proactive departure alerts, offline cache, WebAuthn lock, and local GDPR-style data controls.
+**RouteX** is a responsive map-based navigation and commute orchestration web app. Interactive map, multi-modal directions, search-grounded AI assistant (Gemini + Google Search), proactive departure alerts, offline cache, WebAuthn lock, and local GDPR-style data controls.
 
 Repository: [mwasgibson/routex](https://github.com/mwasgibson/routex)
 
